@@ -1,0 +1,21 @@
+ Consume Time：24 ms 2022-04-07 20:04:20
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student
+
+ Consume Time：27 ms 2022-04-07 20:09:23
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student
+
+ Consume Time：23 ms 2022-04-07 20:09:29
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student
+
+ Consume Time：24 ms 2022-04-07 20:09:33
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student
+
+ Consume Time：10 ms 2022-04-07 20:12:03
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student WHERE (class_no = 1002 AND sex = '男')
+
+ Consume Time：10 ms 2022-04-07 20:12:17
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student WHERE (class_no = 1002 AND sex = '男')
+
+ Consume Time：10 ms 2022-04-07 20:12:31
+ Execute SQL：SELECT student_no,name,sex,telephone_number,family_telephone_number,birthday,address,id_card,email,dormitory_number,class_no,state,remarks FROM student WHERE (class_no = 1002 AND sex = '男')
+
